@@ -23,12 +23,10 @@ Thank you for stopping by my GitHub profile, and I look forward to sharing my co
 
 Happy coding! 🤖👨‍💻
 
-https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white
-https://img.shields.io/badge/Swift-0175C2?style=for-the-badge&logo=dart&logoColor=white
-https://img.shields.io/badge/C++-0175C2?style=for-the-badge&logo=dart&logoColor=white
-https://img.shields.io/badge/Pyhton-0175C2?style=for-the-badge&logo=dart&logoColor=white
-https://img.shields.io/badge/Mysql-0175C2?style=for-the-badge&logo=dart&logoColor=white
-
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![C++](https://img.shields.io/badge/C++-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Mysql](https://img.shields.io/badge/Mysql-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 Feel free to customize and add more stickers and badges to your GitHub profile to make it even more appealing and informative!
 
