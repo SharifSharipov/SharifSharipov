@@ -9,7 +9,7 @@ Age: 20 years old
 Education: Student at Najot Ta'lim
 
 Languages and Technologies 💡 I specialize in Android app development and am proficient in the following languages and technologies:
-#Dart#Swift#C++#Pyhton
+#Dart#Swift#C++#Pyhton#Mysql
 
 What You'll Find Here 📦
 
